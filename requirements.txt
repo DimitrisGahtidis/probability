@@ -1,5 +1,5 @@
 --extra-index-url https://download.pytorch.org/whl/cu129
 multimethod==2.0
-torch==2.8.0+cu129
-torchvision==0.23.0+cu129
+# torch==2.8.0+cu129
+# torchvision==0.23.0+cu129
 scipy==1.15.3
